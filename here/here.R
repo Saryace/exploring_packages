@@ -5,7 +5,6 @@ library(here)
 library(tidyverse)
 library(magick)
 
-
 # here ---------------------------------------------------------------
 
 here_allison <- magick::image_read("https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/here.png")

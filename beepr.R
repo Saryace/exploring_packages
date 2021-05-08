@@ -20,7 +20,6 @@ beep_on_error(log("Rladies")) # sonido solo cuando hay un error
 
 beep_on_error(log(2)) # sonido solo cuando hay un error
 
-
 # Atributos beep() --------------------------------------------------------
 
 beep("fanfare") # diferentes tipos de sonidos
